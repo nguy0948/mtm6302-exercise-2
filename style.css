@@ -77,7 +77,7 @@ h1 {
 }
 
 .gallery-item {
-  width: 200px;
+  width: 150px;
   height: auto;
   display: flex;
   flex-direction: column;
